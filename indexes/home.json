@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:25.537Z",
+  "updatedAt": "2026-02-07T15:07:30.488Z",
   "latest": [
+    {
+      "id": "job_1770476848388_ndt8imo8p",
+      "title": "JIPMER MBBS",
+      "organization": "JIPMER",
+      "category": "admission",
+      "lastDate": "2026-04-30",
+      "createdAt": "2026-02-07T15:07:28.389Z"
+    },
     {
       "id": "job_1770476843409_s165hh3u9",
       "title": "BHU UET/PET",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:18.735Z"
-    },
-    {
-      "id": "job_1770476593739_04uhdmirc",
-      "title": "Ayushman Bharat PM-JAY",
-      "organization": "National Health Authority",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:13.739Z"
     }
   ]
 }
