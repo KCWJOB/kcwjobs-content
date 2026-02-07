@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 19,
+  "totalItems": 20,
   "items": [
+    {
+      "id": "job_1770455548064_j0jxrqq1y",
+      "title": "RSSB 4th Class (Group D) Score Card 2025",
+      "organization": "RSSB",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:12:28.064Z"
+    },
     {
       "id": "job_1770455543434_4ipyyykd8",
       "title": "MPESB Police Constable Result 2026",
