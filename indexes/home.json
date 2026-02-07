@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:32:23.535Z",
+  "updatedAt": "2026-02-07T13:32:28.514Z",
   "latest": [
+    {
+      "id": "job_1770471146425_aciybj7fl",
+      "title": "JEE Main 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-04-30",
+      "createdAt": "2026-02-07T13:32:26.425Z"
+    },
     {
       "id": "job_1770471141555_9f7vmrzbh",
       "title": "CUET UG 2026",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:10.854Z"
-    },
-    {
-      "id": "job_1770455466085_8w8l93gat",
-      "title": "RSSB VDO Score Card 2026",
-      "organization": "RSSB",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:11:06.085Z"
     }
   ]
 }
