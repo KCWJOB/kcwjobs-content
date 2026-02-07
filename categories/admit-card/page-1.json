@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 16,
+  "totalItems": 17,
   "items": [
+    {
+      "id": "job_1770455633663_0tmebcq9f",
+      "title": "CBSE Group A, B, C Tier-I Admit Card 2026",
+      "organization": "CBSE",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:53.663Z"
+    },
     {
       "id": "job_1770455628723_lnbp8e13a",
       "title": "RPSC Junior Chemist Admit Card 2026",
