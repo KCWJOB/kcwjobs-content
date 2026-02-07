@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 18,
+  "totalItems": 19,
   "items": [
+    {
+      "id": "job_1770476756490_uv8darlcf",
+      "title": "Ambedkar Overseas Vidya Nidhi",
+      "organization": "Telangana Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:56.490Z"
+    },
     {
       "id": "job_1770476751501_o6taseuff",
       "title": "Mukhyamantri Medhavi Vidyarthi Yojana",
