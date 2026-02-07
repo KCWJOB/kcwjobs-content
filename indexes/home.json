@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:43.798Z",
+  "updatedAt": "2026-02-07T15:05:48.636Z",
   "latest": [
+    {
+      "id": "job_1770476746604_km9pqdrir",
+      "title": "Jharkhand e-Kalyan Scholarship",
+      "organization": "Jharkhand Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:46.604Z"
+    },
     {
       "id": "job_1770476741580_9l60oji0y",
       "title": "Merit Scholarship SC/ST Delhi",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:14:08.374Z"
-    },
-    {
-      "id": "job_1770455643185_hn1t97w9e",
-      "title": "Bihar BTSC Pharmacist DV Schedule 2026",
-      "organization": "Bihar",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:14:03.185Z"
     }
   ]
 }
