@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 6,
+  "totalItems": 7,
   "items": [
+    {
+      "id": "job_1770476796895_ejp0na33g",
+      "title": "JEE Main 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-04-30",
+      "createdAt": "2026-02-07T15:06:36.895Z"
+    },
     {
       "id": "job_1770476791969_pqk7l687r",
       "title": "CUET UG 2026",
