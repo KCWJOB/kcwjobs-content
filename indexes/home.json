@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:31.661Z",
+  "updatedAt": "2026-02-07T15:03:36.810Z",
   "latest": [
+    {
+      "id": "job_1770476614568_rz0i61vkg",
+      "title": "PM Kaushal Vikas Yojana",
+      "organization": "Ministry of Skill Development",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:34.569Z"
+    },
     {
       "id": "job_1770476609429_fpxzzilfx",
       "title": "PM Ujjwala Yojana",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:54.052Z"
-    },
-    {
-      "id": "job_1770455509044_dm9j03n38",
-      "title": "BELTRON Programmer Result / Cutoff 2026",
-      "organization": "BELTRON",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:11:49.044Z"
     }
   ]
 }
