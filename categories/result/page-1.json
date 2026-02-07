@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 10,
+  "totalItems": 11,
   "items": [
+    {
+      "id": "job_1770455503797_llhc3nns5",
+      "title": "SEBI Assistant Manager Grade A Phase-I Result 2026",
+      "organization": "SEBI",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:11:43.797Z"
+    },
     {
       "id": "job_1770455499134_4njiudbf6",
       "title": "ISRO ICRB Scientist / Engineer Result 2026",
