@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 6,
+  "totalItems": 7,
   "items": [
+    {
+      "id": "job_1770476696204_ojiwqq4b7",
+      "title": "INSPIRE Scholarship SHE",
+      "organization": "DST",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:56.204Z"
+    },
     {
       "id": "job_1770476691007_c4qz1ng8k",
       "title": "Central Sector Scheme Scholarship",
