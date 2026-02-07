@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 18,
+  "totalItems": 19,
   "items": [
+    {
+      "id": "job_1770455643185_hn1t97w9e",
+      "title": "Bihar BTSC Pharmacist DV Schedule 2026",
+      "organization": "Bihar",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:14:03.185Z"
+    },
     {
       "id": "job_1770455638418_kvbf87v55",
       "title": "Indian Navy Civilian INCET 01/2025 Re-Exam Admit Card",
