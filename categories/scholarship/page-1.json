@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 11,
+  "totalItems": 12,
   "items": [
+    {
+      "id": "job_1770476721413_3vpctves4",
+      "title": "UGC Junior Research Fellowship",
+      "organization": "UGC",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:21.413Z"
+    },
     {
       "id": "job_1770476716462_1t4u0p2mz",
       "title": "Post Matric Scholarship SC/ST",
