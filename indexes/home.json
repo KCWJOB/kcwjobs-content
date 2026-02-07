@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:04:33.135Z",
+  "updatedAt": "2026-02-07T15:04:37.875Z",
   "latest": [
+    {
+      "id": "job_1770476675767_9ekxdr0vo",
+      "title": "Suraksha Bima Yojana",
+      "organization": "Insurance Companies",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:35.767Z"
+    },
     {
       "id": "job_1770476670613_5s3ry030g",
       "title": "Jeevan Jyoti Bima Yojana",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:57.568Z"
-    },
-    {
-      "id": "job_1770455572689_2uftjczmv",
-      "title": "WBSSC Group C & D Exam Date 2026",
-      "organization": "SSC",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:12:52.689Z"
     }
   ]
 }
