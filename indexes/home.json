@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:39.047Z",
+  "updatedAt": "2026-02-07T15:06:44.170Z",
   "latest": [
+    {
+      "id": "job_1770476801922_wtshi34xx",
+      "title": "JEE Advanced 2026",
+      "organization": "IIT",
+      "category": "admission",
+      "lastDate": "2026-05-31",
+      "createdAt": "2026-02-07T15:06:41.922Z"
+    },
     {
       "id": "job_1770476796895_ejp0na33g",
       "title": "JEE Main 2026",
@@ -392,14 +400,6 @@
       "category": "scholarship",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:32:11.717Z"
-    },
-    {
-      "id": "job_1770471126520_fck0n4ds0",
-      "title": "PM Yashasvi Scholarship",
-      "organization": "Ministry of Social Justice",
-      "category": "scholarship",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:32:06.520Z"
     }
   ]
 }
