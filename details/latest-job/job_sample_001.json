@@ -1,0 +1,11 @@
+{
+  "id": "job_sample_001",
+  "title": "Sample Government Job 2024",
+  "organization": "Sample Department",
+  "category": "latest-job",
+  "description": "This is a sample job posting",
+  "lastDate": "2024-12-31",
+  "startDate": "2024-01-01",
+  "applyLink": "https://example.com/apply",
+  "createdAt": "2026-02-07T07:58:03.609Z"
+}
