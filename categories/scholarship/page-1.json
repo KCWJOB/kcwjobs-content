@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 21,
+  "totalItems": 22,
   "items": [
+    {
+      "id": "job_1770476771896_8xv6vzrx3",
+      "title": "Dr Ambedkar Medhavi Chhatra Yojana",
+      "organization": "Haryana Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:11.896Z"
+    },
     {
       "id": "job_1770476766733_eod7wxn8n",
       "title": "Shahid Madho Singh Haath Kharcha",
