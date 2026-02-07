@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:30.488Z",
+  "updatedAt": "2026-02-07T15:07:35.422Z",
   "latest": [
+    {
+      "id": "job_1770476853334_o9j812wof",
+      "title": "AIIMS MBBS",
+      "organization": "AIIMS",
+      "category": "admission",
+      "lastDate": "2026-05-15",
+      "createdAt": "2026-02-07T15:07:33.334Z"
+    },
     {
       "id": "job_1770476848388_ndt8imo8p",
       "title": "JIPMER MBBS",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:23.867Z"
-    },
-    {
-      "id": "job_1770476598735_js11q6o9b",
-      "title": "PM Awas Yojana",
-      "organization": "Ministry of Housing",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:18.735Z"
     }
   ]
 }
