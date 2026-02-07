@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 17,
+  "totalItems": 18,
   "items": [
+    {
+      "id": "job_1770455638418_kvbf87v55",
+      "title": "Indian Navy Civilian INCET 01/2025 Re-Exam Admit Card",
+      "organization": "Indian",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:58.418Z"
+    },
     {
       "id": "job_1770455633663_0tmebcq9f",
       "title": "CBSE Group A, B, C Tier-I Admit Card 2026",
