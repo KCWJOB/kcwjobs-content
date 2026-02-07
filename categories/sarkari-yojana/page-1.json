@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 9,
+  "totalItems": 10,
   "items": [
+    {
+      "id": "job_1770476609429_fpxzzilfx",
+      "title": "PM Ujjwala Yojana",
+      "organization": "Ministry of Petroleum",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:29.429Z"
+    },
     {
       "id": "job_1770476603867_9xo76exag",
       "title": "Surya Ghar Muft Bijli Yojana",
