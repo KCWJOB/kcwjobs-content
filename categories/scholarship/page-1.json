@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 9,
+  "totalItems": 10,
   "items": [
+    {
+      "id": "job_1770476711391_230w5hu7f",
+      "title": "Swami Vivekananda Scholarship",
+      "organization": "West Bengal Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:11.391Z"
+    },
     {
       "id": "job_1770476706311_27koa0a1v",
       "title": "AICTE Pragati Scholarship",
