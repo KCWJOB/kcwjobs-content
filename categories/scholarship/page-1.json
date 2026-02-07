@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
+    {
+      "id": "job_1770476781890_tqq1jg4dd",
+      "title": "Post-Matric Merit Scholarship Mizoram",
+      "organization": "Mizoram Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:21.890Z"
+    },
     {
       "id": "job_1770476776983_ryllaebo5",
       "title": "PM Yasasvi Post-Matric",
