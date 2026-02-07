@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:51.918Z",
+  "updatedAt": "2026-02-07T15:03:57.117Z",
   "latest": [
+    {
+      "id": "job_1770476634846_kq0hsriau",
+      "title": "PM Vishwakarma Yojana",
+      "organization": "Ministry of MSME",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:54.846Z"
+    },
     {
       "id": "job_1770476629724_k17see423",
       "title": "PM Mudra Yojana",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:13.635Z"
-    },
-    {
-      "id": "job_1770455528865_6c0l6x243",
-      "title": "BPSC MVI Final Result 2026",
-      "organization": "BPSC",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:12:08.865Z"
     }
   ]
 }
