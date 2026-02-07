@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:08.991Z",
+  "updatedAt": "2026-02-07T15:06:14.071Z",
   "latest": [
+    {
+      "id": "job_1770476771896_8xv6vzrx3",
+      "title": "Dr Ambedkar Medhavi Chhatra Yojana",
+      "organization": "Haryana Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:11.896Z"
+    },
     {
       "id": "job_1770476766733_eod7wxn8n",
       "title": "Shahid Madho Singh Haath Kharcha",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:31:41.129Z"
-    },
-    {
-      "id": "job_1770471096057_y4z480c5e",
-      "title": "Ayushman Bharat PM-JAY",
-      "organization": "National Health Authority",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:31:36.057Z"
     }
   ]
 }
