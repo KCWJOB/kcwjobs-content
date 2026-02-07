@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 3,
+  "totalItems": 4,
   "items": [
+    {
+      "id": "job_1770471131717_c7c9mrg7x",
+      "title": "AICTE Pragati Scholarship",
+      "organization": "AICTE",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:32:11.717Z"
+    },
     {
       "id": "job_1770471126520_fck0n4ds0",
       "title": "PM Yashasvi Scholarship",
