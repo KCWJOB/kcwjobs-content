@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:04:48.078Z",
+  "updatedAt": "2026-02-07T15:04:53.318Z",
   "latest": [
+    {
+      "id": "job_1770476691007_c4qz1ng8k",
+      "title": "Central Sector Scheme Scholarship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:51.007Z"
+    },
     {
       "id": "job_1770476685860_onl929axv",
       "title": "PM Fasal Bima Yojana",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:12.771Z"
-    },
-    {
-      "id": "job_1770455587754_40fi9l8xu",
-      "title": "RPSC SI / Platoon Commander Exam Date 2026",
-      "organization": "RPSC",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:07.754Z"
     }
   ]
 }
