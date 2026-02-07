@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:31:38.050Z",
+  "updatedAt": "2026-02-07T13:31:43.483Z",
   "latest": [
+    {
+      "id": "job_1770471101129_hrz82xn5t",
+      "title": "PM Awas Yojana",
+      "organization": "Ministry of Housing",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:31:41.129Z"
+    },
     {
       "id": "job_1770471096057_y4z480c5e",
       "title": "Ayushman Bharat PM-JAY",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-03-07",
       "createdAt": "2026-02-07T09:10:28.814Z"
-    },
-    {
-      "id": "job_1770455424170_aomkgiqss",
-      "title": "Haryana HPSC HCS Online Form 2026",
-      "organization": "Haryana",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-26",
-      "createdAt": "2026-02-07T09:10:24.170Z"
     }
   ]
 }
