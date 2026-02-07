@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:58.687Z",
+  "updatedAt": "2026-02-07T15:06:03.788Z",
   "latest": [
+    {
+      "id": "job_1770476761562_dbh0w37ha",
+      "title": "Gopabandhu Sikhya Sahayata",
+      "organization": "Odisha Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:01.562Z"
+    },
     {
       "id": "job_1770476756490_uv8darlcf",
       "title": "Ambedkar Overseas Vidya Nidhi",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:31:30.608Z"
-    },
-    {
-      "id": "job_1770470269558_5ilrmu0gf",
-      "title": "this is test",
-      "organization": "test",
-      "category": "admit-card",
-      "lastDate": "2025-01-01",
-      "createdAt": "2026-02-07T13:17:49.558Z"
     }
   ]
 }
