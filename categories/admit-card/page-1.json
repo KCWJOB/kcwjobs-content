@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 9,
+  "totalItems": 10,
   "items": [
+    {
+      "id": "job_1770455598052_icz6b7pjg",
+      "title": "NTA NIFTEE Stage-I Exam City Details 2026",
+      "organization": "NTA",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:18.052Z"
+    },
     {
       "id": "job_1770455592771_5oxthtdwg",
       "title": "UP Police SI, ASI Typing Test Date 2026",
