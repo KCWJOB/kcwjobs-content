@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T10:10:27.202Z",
+  "updatedAt": "2026-02-07T10:12:18.237Z",
   "latest": [
+    {
+      "id": "job_1770459136116_o7krj0nty",
+      "title": "this is test job",
+      "organization": "initx",
+      "category": "result",
+      "lastDate": "2000-01-01",
+      "createdAt": "2026-02-07T10:12:16.116Z"
+    },
     {
       "id": "job_1770455548064_j0jxrqq1y",
       "title": "RSSB 4th Class (Group D) Score Card 2030",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-04",
       "createdAt": "2026-02-07T09:10:14.281Z"
-    },
-    {
-      "id": "job_1770455409640_f0h8e4ul4",
-      "title": "Bihar BSSC Inter Level Online Form 2026",
-      "organization": "SSC",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-16",
-      "createdAt": "2026-02-07T09:10:09.640Z"
     }
   ]
 }
