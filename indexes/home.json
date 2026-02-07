@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:56.115Z",
+  "updatedAt": "2026-02-07T15:08:01.348Z",
   "latest": [
+    {
+      "id": "job_1770476879189_tfearoqzq",
+      "title": "IIT Bombay MTech",
+      "organization": "IIT Bombay",
+      "category": "admission",
+      "lastDate": "2026-05-31",
+      "createdAt": "2026-02-07T15:07:59.189Z"
+    },
     {
       "id": "job_1770476873912_gxljcct72",
       "title": "IGNOU Open Admissions",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:49.724Z"
-    },
-    {
-      "id": "job_1770476624640_q0gxssbku",
-      "title": "PM Jan Dhan Yojana",
-      "organization": "Ministry of Finance",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:44.640Z"
     }
   ]
 }
