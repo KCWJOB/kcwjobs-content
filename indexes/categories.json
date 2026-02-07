@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "latest-job",
+      "label": "Latest Job"
+    },
+    {
+      "id": "result",
+      "label": "Result"
+    },
+    {
+      "id": "admit-card",
+      "label": "Admit Card"
+    },
+    {
+      "id": "scholarship",
+      "label": "Scholarship"
+    },
+    {
+      "id": "yojana",
+      "label": "Yojana"
+    },
+    {
+      "id": "admission",
+      "label": "Admission"
+    }
+  ]
+}
