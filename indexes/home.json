@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:23.985Z",
+  "updatedAt": "2026-02-07T15:06:29.358Z",
   "latest": [
+    {
+      "id": "job_1770476787251_f97xazpra",
+      "title": "Reliance Foundation UG Scholarship",
+      "organization": "Reliance Foundation",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:27.251Z"
+    },
     {
       "id": "job_1770476781890_tqq1jg4dd",
       "title": "Post-Matric Merit Scholarship Mizoram",
@@ -392,14 +400,6 @@
       "category": "scholarship",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:31:56.560Z"
-    },
-    {
-      "id": "job_1770471111550_i3pnffahj",
-      "title": "PM Ujjwala Yojana",
-      "organization": "Ministry of Petroleum",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:31:51.550Z"
     }
   ]
 }
