@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:00.232Z",
+  "updatedAt": "2026-02-07T15:07:05.282Z",
   "latest": [
+    {
+      "id": "job_1770476823137_skuv4reko",
+      "title": "CLAT 2026",
+      "organization": "Consortium of NLUs",
+      "category": "admission",
+      "lastDate": "2026-05-31",
+      "createdAt": "2026-02-07T15:07:03.137Z"
+    },
     {
       "id": "job_1770476818093_505yhyl47",
       "title": "CAT 2026",
@@ -392,14 +400,6 @@
       "category": "admission",
       "lastDate": "2026-05-31",
       "createdAt": "2026-02-07T13:32:31.380Z"
-    },
-    {
-      "id": "job_1770471146425_aciybj7fl",
-      "title": "JEE Main 2026",
-      "organization": "NTA",
-      "category": "admission",
-      "lastDate": "2026-04-30",
-      "createdAt": "2026-02-07T13:32:26.425Z"
     }
   ]
 }
