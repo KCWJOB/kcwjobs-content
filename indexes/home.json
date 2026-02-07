@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:32:03.641Z",
+  "updatedAt": "2026-02-07T13:32:08.732Z",
   "latest": [
+    {
+      "id": "job_1770471126520_fck0n4ds0",
+      "title": "PM Yashasvi Scholarship",
+      "organization": "Ministry of Social Justice",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:32:06.520Z"
+    },
     {
       "id": "job_1770471121675_372xuoc6m",
       "title": "INSPIRE Scholarship SHE",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-27",
       "createdAt": "2026-02-07T09:10:52.089Z"
-    },
-    {
-      "id": "job_1770455447394_t4m8a32wk",
-      "title": "SBI Circle Based Officer CBO Online Form 2026",
-      "organization": "SBI",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-18",
-      "createdAt": "2026-02-07T09:10:47.394Z"
     }
   ]
 }
