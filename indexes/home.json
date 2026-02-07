@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:14.071Z",
+  "updatedAt": "2026-02-07T15:06:19.186Z",
   "latest": [
+    {
+      "id": "job_1770476776983_ryllaebo5",
+      "title": "PM Yasasvi Post-Matric",
+      "organization": "Manipur Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:16.983Z"
+    },
     {
       "id": "job_1770476771896_8xv6vzrx3",
       "title": "Dr Ambedkar Medhavi Chhatra Yojana",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:31:46.349Z"
-    },
-    {
-      "id": "job_1770471101129_hrz82xn5t",
-      "title": "PM Awas Yojana",
-      "organization": "Ministry of Housing",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:31:41.129Z"
     }
   ]
 }
