@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 14,
+  "totalItems": 15,
   "items": [
+    {
+      "id": "job_1770476838109_gedcp8eg6",
+      "title": "DUET 2026",
+      "organization": "Delhi University",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:07:18.109Z"
+    },
     {
       "id": "job_1770476833057_g0p9sjjhu",
       "title": "IIT Madras BS Online",
