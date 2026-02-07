@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 3,
+  "totalItems": 4,
   "items": [
+    {
+      "id": "job_1770471106349_zinvcg60g",
+      "title": "Surya Ghar Muft Bijli Yojana",
+      "organization": "Ministry of New & Renewable Energy",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:31:46.349Z"
+    },
     {
       "id": "job_1770471101129_hrz82xn5t",
       "title": "PM Awas Yojana",
