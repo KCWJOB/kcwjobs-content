@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:08:01.348Z",
+  "updatedAt": "2026-02-07T15:08:06.854Z",
   "latest": [
+    {
+      "id": "job_1770476884305_u8cnrvmzx",
+      "title": "Osmania University UG/PG",
+      "organization": "Osmania University",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:08:04.306Z"
+    },
     {
       "id": "job_1770476879189_tfearoqzq",
       "title": "IIT Bombay MTech",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:54.846Z"
-    },
-    {
-      "id": "job_1770476629724_k17see423",
-      "title": "PM Mudra Yojana",
-      "organization": "MUDRA",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:49.724Z"
     }
   ]
 }
