@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:19.186Z",
+  "updatedAt": "2026-02-07T15:06:23.985Z",
   "latest": [
+    {
+      "id": "job_1770476781890_tqq1jg4dd",
+      "title": "Post-Matric Merit Scholarship Mizoram",
+      "organization": "Mizoram Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:06:21.890Z"
+    },
     {
       "id": "job_1770476776983_ryllaebo5",
       "title": "PM Yasasvi Post-Matric",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:31:51.550Z"
-    },
-    {
-      "id": "job_1770471106349_zinvcg60g",
-      "title": "Surya Ghar Muft Bijli Yojana",
-      "organization": "Ministry of New & Renewable Energy",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:31:46.349Z"
     }
   ]
 }
