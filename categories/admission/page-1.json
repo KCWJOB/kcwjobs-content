@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
+    {
+      "id": "job_1770476884305_u8cnrvmzx",
+      "title": "Osmania University UG/PG",
+      "organization": "Osmania University",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:08:04.306Z"
+    },
     {
       "id": "job_1770476879189_tfearoqzq",
       "title": "IIT Bombay MTech",
