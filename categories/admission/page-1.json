@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 11,
+  "totalItems": 12,
   "items": [
+    {
+      "id": "job_1770476823137_skuv4reko",
+      "title": "CLAT 2026",
+      "organization": "Consortium of NLUs",
+      "category": "admission",
+      "lastDate": "2026-05-31",
+      "createdAt": "2026-02-07T15:07:03.137Z"
+    },
     {
       "id": "job_1770476818093_505yhyl47",
       "title": "CAT 2026",
