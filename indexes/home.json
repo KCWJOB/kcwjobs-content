@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:03.484Z",
+  "updatedAt": "2026-02-07T15:05:08.667Z",
   "latest": [
+    {
+      "id": "job_1770476706311_27koa0a1v",
+      "title": "AICTE Pragati Scholarship",
+      "organization": "AICTE",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:06.311Z"
+    },
     {
       "id": "job_1770476701324_fizy0s1rs",
       "title": "PM Yashasvi Scholarship",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:28.271Z"
-    },
-    {
-      "id": "job_1770455603258_m6sfnnbwj",
-      "title": "Railway RRB ALP Revised Exam Date 2026",
-      "organization": "Railway",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:23.258Z"
     }
   ]
 }
