@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:13:25.316Z",
+  "updatedAt": "2026-02-07T09:13:30.620Z",
   "latest": [
+    {
+      "id": "job_1770455608271_f2hd1wcrw",
+      "title": "RRB NTPC 10+2 Inter Level Typing Test Admit Card 2026",
+      "organization": "RRB",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:28.271Z"
+    },
     {
       "id": "job_1770455603258_m6sfnnbwj",
       "title": "Railway RRB ALP Revised Exam Date 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-03",
       "createdAt": "2026-02-07T09:09:32.351Z"
-    },
-    {
-      "id": "job_1770455367685_sygfyfmfj",
-      "title": "Railway RRB Group D Online Form 2026",
-      "organization": "Railway",
-      "category": "upcoming-job",
-      "lastDate": "2026-03-02",
-      "createdAt": "2026-02-07T09:09:27.685Z"
     }
   ]
 }
