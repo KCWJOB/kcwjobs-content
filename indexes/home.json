@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:34.041Z",
+  "updatedAt": "2026-02-07T15:06:39.047Z",
   "latest": [
+    {
+      "id": "job_1770476796895_ejp0na33g",
+      "title": "JEE Main 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-04-30",
+      "createdAt": "2026-02-07T15:06:36.895Z"
+    },
     {
       "id": "job_1770476791969_pqk7l687r",
       "title": "CUET UG 2026",
@@ -392,14 +400,6 @@
       "category": "scholarship",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:32:06.520Z"
-    },
-    {
-      "id": "job_1770471121675_372xuoc6m",
-      "title": "INSPIRE Scholarship SHE",
-      "organization": "DST",
-      "category": "scholarship",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:32:01.675Z"
     }
   ]
 }
