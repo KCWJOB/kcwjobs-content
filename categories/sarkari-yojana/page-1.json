@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 10,
+  "totalItems": 11,
   "items": [
+    {
+      "id": "job_1770476614568_rz0i61vkg",
+      "title": "PM Kaushal Vikas Yojana",
+      "organization": "Ministry of Skill Development",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:34.569Z"
+    },
     {
       "id": "job_1770476609429_fpxzzilfx",
       "title": "PM Ujjwala Yojana",
