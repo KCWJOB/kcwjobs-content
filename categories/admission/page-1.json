@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 5,
+  "totalItems": 6,
   "items": [
+    {
+      "id": "job_1770476791969_pqk7l687r",
+      "title": "CUET UG 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:06:31.969Z"
+    },
     {
       "id": "job_1770471161342_g2kotvlxu",
       "title": "CAT 2026",
