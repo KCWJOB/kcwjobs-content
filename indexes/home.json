@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:04:07.467Z",
+  "updatedAt": "2026-02-07T15:04:12.347Z",
   "latest": [
+    {
+      "id": "job_1770476650356_5yh0m5oyo",
+      "title": "PM Garib Kalyan Anna Yojana",
+      "organization": "Ministry of Consumer Affairs",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:10.356Z"
+    },
     {
       "id": "job_1770476645180_ijlohjl12",
       "title": "Bima Sakhi Yojana",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:33.172Z"
-    },
-    {
-      "id": "job_1770455543434_4ipyyykd8",
-      "title": "MPESB Police Constable Result 2026",
-      "organization": "MPESB",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:12:23.434Z"
     }
   ]
 }
