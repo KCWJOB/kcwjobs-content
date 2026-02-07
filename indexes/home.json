@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:08.667Z",
+  "updatedAt": "2026-02-07T15:05:13.614Z",
   "latest": [
+    {
+      "id": "job_1770476711391_230w5hu7f",
+      "title": "Swami Vivekananda Scholarship",
+      "organization": "West Bengal Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:11.391Z"
+    },
     {
       "id": "job_1770476706311_27koa0a1v",
       "title": "AICTE Pragati Scholarship",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:33.704Z"
-    },
-    {
-      "id": "job_1770455608271_f2hd1wcrw",
-      "title": "RRB NTPC 10+2 Inter Level Typing Test Admit Card 2026",
-      "organization": "RRB",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:28.271Z"
     }
   ]
 }
