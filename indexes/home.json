@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:14:00.319Z",
+  "updatedAt": "2026-02-07T09:14:05.451Z",
   "latest": [
+    {
+      "id": "job_1770455643185_hn1t97w9e",
+      "title": "Bihar BTSC Pharmacist DV Schedule 2026",
+      "organization": "Bihar",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:14:03.185Z"
+    },
     {
       "id": "job_1770455638418_kvbf87v55",
       "title": "Indian Navy Civilian INCET 01/2025 Re-Exam Admit Card",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-08",
       "createdAt": "2026-02-07T09:10:04.988Z"
-    },
-    {
-      "id": "job_1770455400352_k836evoqp",
-      "title": "Yantra India Limited (YIL) Apprentice Online Form 2026",
-      "organization": "Yantra",
-      "category": "upcoming-job",
-      "lastDate": "2026-03-03",
-      "createdAt": "2026-02-07T09:10:00.352Z"
     }
   ]
 }
