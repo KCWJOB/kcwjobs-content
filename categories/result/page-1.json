@@ -1,6 +1,15 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 0,
-  "items": []
+  "totalItems": 1,
+  "items": [
+    {
+      "id": "job_1770455456718_d5vorsezx",
+      "title": "DSSSB Various Post Result 2026",
+      "organization": "DSSSB",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:10:56.718Z"
+    }
+  ]
 }
