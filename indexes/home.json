@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:14:05.451Z",
+  "updatedAt": "2026-02-07T09:14:10.368Z",
   "latest": [
+    {
+      "id": "job_1770455648374_apuf4o114",
+      "title": "Haryana HBSE Board 10th / 12th Time Table 2026",
+      "organization": "Haryana",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:14:08.374Z"
+    },
     {
       "id": "job_1770455643185_hn1t97w9e",
       "title": "Bihar BTSC Pharmacist DV Schedule 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-16",
       "createdAt": "2026-02-07T09:10:09.640Z"
-    },
-    {
-      "id": "job_1770455404988_5t7gcs800",
-      "title": "Indian Airforce Agniveer Vayu Intake 01/2027 Online Form",
-      "organization": "Indian Airforce",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-08",
-      "createdAt": "2026-02-07T09:10:04.988Z"
     }
   ]
 }
