@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "latest-job",
-      "label": "Latest Job"
+      "id": "upcoming-job",
+      "label": "Upcoming Job"
     },
     {
       "id": "result",
@@ -13,12 +13,12 @@
       "label": "Admit Card"
     },
     {
-      "id": "scholarship",
-      "label": "Scholarship"
+      "id": "sarkari-yojana",
+      "label": "Sarkari Yojana"
     },
     {
-      "id": "yojana",
-      "label": "Yojana"
+      "id": "scholarship",
+      "label": "Scholarship"
     },
     {
       "id": "admission",
