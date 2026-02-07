@@ -2,15 +2,6 @@
   "updatedAt": "2026-02-07T10:30:51.262Z",
   "latest": [
     {
-      "id": "job_1770460137816_f5ho5gxaw",
-      "title": "this is test upcoming job",
-      "organization": "hello",
-      "category": "upcoming-job",
-      "lastDate": "2027-01-01",
-      "posts": "1000",
-      "createdAt": "2026-02-07T10:28:57.816Z"
-    },
-    {
       "id": "job_1770459136116_o7krj0nty",
       "title": "this is test job",
       "organization": "initx",
