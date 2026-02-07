@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:31:53.721Z",
+  "updatedAt": "2026-02-07T13:31:58.717Z",
   "latest": [
+    {
+      "id": "job_1770471116560_qn5yzog76",
+      "title": "Central Sector Scheme Scholarship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:31:56.560Z"
+    },
     {
       "id": "job_1770471111550_i3pnffahj",
       "title": "PM Ujjwala Yojana",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-03-05",
       "createdAt": "2026-02-07T09:10:42.680Z"
-    },
-    {
-      "id": "job_1770455438020_089zq1n0j",
-      "title": "JPSC Civil Services Pre Online Form 2026",
-      "organization": "JPSC",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-14",
-      "createdAt": "2026-02-07T09:10:38.020Z"
     }
   ]
 }
