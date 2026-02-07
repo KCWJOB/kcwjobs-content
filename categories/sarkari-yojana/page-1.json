@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 21,
+  "totalItems": 22,
   "items": [
+    {
+      "id": "job_1770476670613_5s3ry030g",
+      "title": "Jeevan Jyoti Bima Yojana",
+      "organization": "LIC",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:30.613Z"
+    },
     {
       "id": "job_1770476665621_8k8dtqtpr",
       "title": "PM SVANidhi Yojana",
