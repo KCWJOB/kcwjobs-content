@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 24,
+  "totalItems": 25,
   "items": [
+    {
+      "id": "job_1770476889725_de1rakj05",
+      "title": "Panjab University Admissions",
+      "organization": "Panjab University",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:08:09.725Z"
+    },
     {
       "id": "job_1770476884305_u8cnrvmzx",
       "title": "Osmania University UG/PG",
