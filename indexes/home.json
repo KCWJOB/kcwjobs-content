@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:15.862Z",
+  "updatedAt": "2026-02-07T15:03:21.076Z",
   "latest": [
+    {
+      "id": "job_1770476598735_js11q6o9b",
+      "title": "PM Awas Yojana",
+      "organization": "Ministry of Housing",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:18.735Z"
+    },
     {
       "id": "job_1770476593739_04uhdmirc",
       "title": "Ayushman Bharat PM-JAY",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:39.134Z"
-    },
-    {
-      "id": "job_1770455494449_ky866ffvw",
-      "title": "NTA CSIR UGC NET December Result 2026",
-      "organization": "NTA",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:11:34.449Z"
     }
   ]
 }
