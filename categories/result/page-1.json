@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 9,
+  "totalItems": 10,
   "items": [
+    {
+      "id": "job_1770455499134_4njiudbf6",
+      "title": "ISRO ICRB Scientist / Engineer Result 2026",
+      "organization": "ISRO",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:11:39.134Z"
+    },
     {
       "id": "job_1770455494449_ky866ffvw",
       "title": "NTA CSIR UGC NET December Result 2026",
