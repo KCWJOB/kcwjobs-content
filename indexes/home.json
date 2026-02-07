@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:13:45.696Z",
+  "updatedAt": "2026-02-07T09:13:50.769Z",
   "latest": [
+    {
+      "id": "job_1770455628723_lnbp8e13a",
+      "title": "RPSC Junior Chemist Admit Card 2026",
+      "organization": "RPSC",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:48.723Z"
+    },
     {
       "id": "job_1770455623497_j6lkumr8r",
       "title": "RPSC Assistant Electrical Inspector Admit Card 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-02",
       "createdAt": "2026-02-07T09:09:51.083Z"
-    },
-    {
-      "id": "job_1770455386446_1tcedpbc9",
-      "title": "Bihar BPSC ACF Online Form 2026",
-      "organization": "BPSC",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-02",
-      "createdAt": "2026-02-07T09:09:46.446Z"
     }
   ]
 }
