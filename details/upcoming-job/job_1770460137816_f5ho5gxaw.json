@@ -1,0 +1,33 @@
+{
+  "id": "job_1770460137816_f5ho5gxaw",
+  "title": "this is test upcoming job",
+  "organization": "hello",
+  "category": "upcoming-job",
+  "description": "nothing",
+  "lastDate": "2027-01-01",
+  "startDate": "2020-01-01",
+  "applicationFee": "500",
+  "applyLink": "https://vercel.com/kcwjobs-projects/~/deployments",
+  "organizationLink": "",
+  "shortNoticeLink": "",
+  "syllabusLink": "",
+  "youtubeLink": "",
+  "eligibility": "anything",
+  "salary": "7777",
+  "posts": "1000",
+  "details": {
+    "heroLine1": "",
+    "heroLine2": "",
+    "heroLine3": "",
+    "importantDates": "",
+    "applicationFee": "",
+    "ageLimit": "",
+    "totalPosts": "",
+    "vacancyBreakdown": "",
+    "eligibilityDetails": "",
+    "salaryPerks": "",
+    "selectionProcess": "",
+    "howTo": ""
+  },
+  "createdAt": "2026-02-07T10:28:57.816Z"
+}
