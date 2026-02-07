@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:04:17.808Z",
+  "updatedAt": "2026-02-07T15:04:22.944Z",
   "latest": [
+    {
+      "id": "job_1770476660647_uct7umbfi",
+      "title": "Startup India Seed Fund",
+      "organization": "DPIIT",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:20.647Z"
+    },
     {
       "id": "job_1770476655267_ph9r81ndh",
       "title": "PMEGP",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:42.879Z"
-    },
-    {
-      "id": "job_1770455558043_zowbgokeh",
-      "title": "SSC MTS / Havaldar Admit Card 2026",
-      "organization": "SSC",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:12:38.043Z"
     }
   ]
 }
