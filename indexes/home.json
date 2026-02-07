@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:40.712Z",
+  "updatedAt": "2026-02-07T15:07:45.918Z",
   "latest": [
+    {
+      "id": "job_1770476863587_nhjtcghdf",
+      "title": "NID DAT 2026",
+      "organization": "NID",
+      "category": "admission",
+      "lastDate": "2026-03-31",
+      "createdAt": "2026-02-07T15:07:43.587Z"
+    },
     {
       "id": "job_1770476858312_x7fjdk8pi",
       "title": "NIFT Entrance 2026",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:34.569Z"
-    },
-    {
-      "id": "job_1770476609429_fpxzzilfx",
-      "title": "PM Ujjwala Yojana",
-      "organization": "Ministry of Petroleum",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:29.429Z"
     }
   ]
 }
