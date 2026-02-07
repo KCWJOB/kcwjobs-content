@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:31:33.222Z",
+  "updatedAt": "2026-02-07T13:31:38.050Z",
   "latest": [
+    {
+      "id": "job_1770471096057_y4z480c5e",
+      "title": "Ayushman Bharat PM-JAY",
+      "organization": "National Health Authority",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:31:36.057Z"
+    },
     {
       "id": "job_1770471090608_ikp3dhuyn",
       "title": "PM Kisan Samman Nidhi Yojana",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-26",
       "createdAt": "2026-02-07T09:10:24.170Z"
-    },
-    {
-      "id": "job_1770455419477_f1aa0wsen",
-      "title": "Delhi High Court JJA Online Form 2026",
-      "organization": "Delhi High Court",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-23",
-      "createdAt": "2026-02-07T09:10:19.477Z"
     }
   ]
 }
