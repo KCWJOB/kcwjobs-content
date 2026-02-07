@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:48.636Z",
+  "updatedAt": "2026-02-07T15:05:53.567Z",
   "latest": [
+    {
+      "id": "job_1770476751501_o6taseuff",
+      "title": "Mukhyamantri Medhavi Vidyarthi Yojana",
+      "organization": "MP Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:51.501Z"
+    },
     {
       "id": "job_1770476746604_km9pqdrir",
       "title": "Jharkhand e-Kalyan Scholarship",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:28.064Z"
-    },
-    {
-      "id": "job_1770455648374_apuf4o114",
-      "title": "Haryana HBSE Board 10th / 12th Time Table 2028",
-      "organization": "Haryana",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:14:08.374Z"
     }
   ]
 }
