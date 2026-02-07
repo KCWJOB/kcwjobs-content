@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:04:58.525Z",
+  "updatedAt": "2026-02-07T15:05:03.484Z",
   "latest": [
+    {
+      "id": "job_1770476701324_fizy0s1rs",
+      "title": "PM Yashasvi Scholarship",
+      "organization": "Ministry of Social Justice",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:01.324Z"
+    },
     {
       "id": "job_1770476696204_ojiwqq4b7",
       "title": "INSPIRE Scholarship SHE",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:23.258Z"
-    },
-    {
-      "id": "job_1770455598052_icz6b7pjg",
-      "title": "NTA NIFTEE Stage-I Exam City Details 2026",
-      "organization": "NTA",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:18.052Z"
     }
   ]
 }
