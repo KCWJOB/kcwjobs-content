@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 9,
+  "totalItems": 10,
   "items": [
+    {
+      "id": "job_1770476812754_yfg7fdqax",
+      "title": "CUET PG 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:06:52.754Z"
+    },
     {
       "id": "job_1770476807086_fgn0u0qrm",
       "title": "NEET UG 2026",
