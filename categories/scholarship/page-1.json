@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 7,
+  "totalItems": 8,
   "items": [
+    {
+      "id": "job_1770476701324_fizy0s1rs",
+      "title": "PM Yashasvi Scholarship",
+      "organization": "Ministry of Social Justice",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:01.324Z"
+    },
     {
       "id": "job_1770476696204_ojiwqq4b7",
       "title": "INSPIRE Scholarship SHE",
