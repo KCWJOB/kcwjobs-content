@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:21.076Z",
+  "updatedAt": "2026-02-07T15:03:26.527Z",
   "latest": [
+    {
+      "id": "job_1770476603867_9xo76exag",
+      "title": "Surya Ghar Muft Bijli Yojana",
+      "organization": "Ministry of New & Renewable Energy",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:23.867Z"
+    },
     {
       "id": "job_1770476598735_js11q6o9b",
       "title": "PM Awas Yojana",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:43.797Z"
-    },
-    {
-      "id": "job_1770455499134_4njiudbf6",
-      "title": "ISRO ICRB Scientist / Engineer Result 2026",
-      "organization": "ISRO",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:11:39.134Z"
     }
   ]
 }
