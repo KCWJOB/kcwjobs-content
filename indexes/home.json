@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:08:06.854Z",
+  "updatedAt": "2026-02-07T15:08:11.873Z",
   "latest": [
+    {
+      "id": "job_1770476889725_de1rakj05",
+      "title": "Panjab University Admissions",
+      "organization": "Panjab University",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:08:09.725Z"
+    },
     {
       "id": "job_1770476884305_u8cnrvmzx",
       "title": "Osmania University UG/PG",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:04:00.027Z"
-    },
-    {
-      "id": "job_1770476634846_kq0hsriau",
-      "title": "PM Vishwakarma Yojana",
-      "organization": "Ministry of MSME",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:54.846Z"
     }
   ]
 }
