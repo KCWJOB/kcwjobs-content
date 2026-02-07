@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:55.218Z",
+  "updatedAt": "2026-02-07T15:07:00.232Z",
   "latest": [
+    {
+      "id": "job_1770476818093_505yhyl47",
+      "title": "CAT 2026",
+      "organization": "IIM",
+      "category": "admission",
+      "lastDate": "2026-09-30",
+      "createdAt": "2026-02-07T15:06:58.093Z"
+    },
     {
       "id": "job_1770476812754_yfg7fdqax",
       "title": "CUET PG 2026",
@@ -392,14 +400,6 @@
       "category": "admission",
       "lastDate": "2026-04-30",
       "createdAt": "2026-02-07T13:32:26.425Z"
-    },
-    {
-      "id": "job_1770471141555_9f7vmrzbh",
-      "title": "CUET UG 2026",
-      "organization": "NTA",
-      "category": "admission",
-      "lastDate": "2026-06-30",
-      "createdAt": "2026-02-07T13:32:21.555Z"
     }
   ]
 }
