@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 16,
+  "totalItems": 17,
   "items": [
+    {
+      "id": "job_1770476746604_km9pqdrir",
+      "title": "Jharkhand e-Kalyan Scholarship",
+      "organization": "Jharkhand Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:46.604Z"
+    },
     {
       "id": "job_1770476741580_9l60oji0y",
       "title": "Merit Scholarship SC/ST Delhi",
