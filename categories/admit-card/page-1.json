@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 12,
+  "totalItems": 13,
   "items": [
+    {
+      "id": "job_1770455613704_63q6r6cfg",
+      "title": "UPSSSC Enforcement Constable PET Exam Date 2026",
+      "organization": "SSC",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:33.704Z"
+    },
     {
       "id": "job_1770455608271_f2hd1wcrw",
       "title": "RRB NTPC 10+2 Inter Level Typing Test Admit Card 2026",
