@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:23.558Z",
+  "updatedAt": "2026-02-07T15:05:28.588Z",
   "latest": [
+    {
+      "id": "job_1770476726388_q81h2ekxf",
+      "title": "PM Research Fellowship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:26.388Z"
+    },
     {
       "id": "job_1770476721413_3vpctves4",
       "title": "UGC Junior Research Fellowship",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:48.723Z"
-    },
-    {
-      "id": "job_1770455623497_j6lkumr8r",
-      "title": "RPSC Assistant Electrical Inspector Admit Card 2026",
-      "organization": "RPSC",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:43.497Z"
     }
   ]
 }
