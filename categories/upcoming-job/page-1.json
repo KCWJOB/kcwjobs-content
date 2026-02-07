@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 17,
+  "totalItems": 18,
   "items": [
+    {
+      "id": "job_1770455438020_089zq1n0j",
+      "title": "JPSC Civil Services Pre Online Form 2026",
+      "organization": "JPSC",
+      "category": "upcoming-job",
+      "lastDate": "2026-02-14",
+      "createdAt": "2026-02-07T09:10:38.020Z"
+    },
     {
       "id": "job_1770455433389_z97xpzohv",
       "title": "BPSC Professor Online Form 2026",
