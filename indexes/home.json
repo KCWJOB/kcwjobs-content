@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T13:32:13.741Z",
+  "updatedAt": "2026-02-07T13:32:18.672Z",
   "latest": [
+    {
+      "id": "job_1770471136580_zalbt88dx",
+      "title": "PM Research Fellowship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:32:16.580Z"
+    },
     {
       "id": "job_1770471131717_c7c9mrg7x",
       "title": "AICTE Pragati Scholarship",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:01.422Z"
-    },
-    {
-      "id": "job_1770455456718_d5vorsezx",
-      "title": "DSSSB Various Post Result 2026",
-      "organization": "DSSSB",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:10:56.718Z"
     }
   ]
 }
