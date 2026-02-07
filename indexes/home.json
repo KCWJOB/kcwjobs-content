@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:38.751Z",
+  "updatedAt": "2026-02-07T15:05:43.798Z",
   "latest": [
+    {
+      "id": "job_1770476741580_9l60oji0y",
+      "title": "Merit Scholarship SC/ST Delhi",
+      "organization": "Delhi Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:41.580Z"
+    },
     {
       "id": "job_1770476736656_hc4kd1mpp",
       "title": "Ishan Uday Scholarship",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:14:03.185Z"
-    },
-    {
-      "id": "job_1770455638418_kvbf87v55",
-      "title": "Indian Navy Civilian INCET 01/2025 Re-Exam Admit Card",
-      "organization": "Indian",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:58.418Z"
     }
   ]
 }
