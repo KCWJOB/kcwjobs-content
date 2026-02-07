@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:13:20.594Z",
+  "updatedAt": "2026-02-07T09:13:25.316Z",
   "latest": [
+    {
+      "id": "job_1770455603258_m6sfnnbwj",
+      "title": "Railway RRB ALP Revised Exam Date 2026",
+      "organization": "Railway",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:23.258Z"
+    },
     {
       "id": "job_1770455598052_icz6b7pjg",
       "title": "NTA NIFTEE Stage-I Exam City Details 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-03-02",
       "createdAt": "2026-02-07T09:09:27.685Z"
-    },
-    {
-      "id": "job_1770455362749_tpcc4azd9",
-      "title": "India Post GDS Online Form 2026",
-      "organization": "India Post",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-14",
-      "createdAt": "2026-02-07T09:09:22.749Z"
     }
   ]
 }
