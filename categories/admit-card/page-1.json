@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 14,
+  "totalItems": 15,
   "items": [
+    {
+      "id": "job_1770455623497_j6lkumr8r",
+      "title": "RPSC Assistant Electrical Inspector Admit Card 2026",
+      "organization": "RPSC",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:43.497Z"
+    },
     {
       "id": "job_1770455618454_af0ue23vs",
       "title": "CSBC Bihar Police Driver PET Exam Date 2026",
