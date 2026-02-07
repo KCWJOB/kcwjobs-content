@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:29.358Z",
+  "updatedAt": "2026-02-07T15:06:34.041Z",
   "latest": [
+    {
+      "id": "job_1770476791969_pqk7l687r",
+      "title": "CUET UG 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:06:31.969Z"
+    },
     {
       "id": "job_1770476787251_f97xazpra",
       "title": "Reliance Foundation UG Scholarship",
@@ -392,14 +400,6 @@
       "category": "scholarship",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T13:32:01.675Z"
-    },
-    {
-      "id": "job_1770471116560_qn5yzog76",
-      "title": "Central Sector Scheme Scholarship",
-      "organization": "Ministry of Education",
-      "category": "scholarship",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:31:56.560Z"
     }
   ]
 }
