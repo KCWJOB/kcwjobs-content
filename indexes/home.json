@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:20.705Z",
+  "updatedAt": "2026-02-07T15:07:25.537Z",
   "latest": [
+    {
+      "id": "job_1770476843409_s165hh3u9",
+      "title": "BHU UET/PET",
+      "organization": "Banaras Hindu University",
+      "category": "admission",
+      "lastDate": "2026-05-31",
+      "createdAt": "2026-02-07T15:07:23.409Z"
+    },
     {
       "id": "job_1770476838109_gedcp8eg6",
       "title": "DUET 2026",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:13.739Z"
-    },
-    {
-      "id": "job_1770476588544_5kfib5bh2",
-      "title": "PM Kisan Samman Nidhi Yojana",
-      "organization": "Ministry of Agriculture",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:08.544Z"
     }
   ]
 }
