@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
+    {
+      "id": "job_1770476680781_u5dfvah62",
+      "title": "Kisan Credit Card",
+      "organization": "Banks",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:40.781Z"
+    },
     {
       "id": "job_1770476675767_9ekxdr0vo",
       "title": "Suraksha Bima Yojana",
