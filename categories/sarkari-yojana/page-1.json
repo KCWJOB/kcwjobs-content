@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 7,
+  "totalItems": 8,
   "items": [
+    {
+      "id": "job_1770476598735_js11q6o9b",
+      "title": "PM Awas Yojana",
+      "organization": "Ministry of Housing",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:18.735Z"
+    },
     {
       "id": "job_1770476593739_04uhdmirc",
       "title": "Ayushman Bharat PM-JAY",
