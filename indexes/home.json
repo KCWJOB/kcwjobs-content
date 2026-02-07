@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:36.810Z",
+  "updatedAt": "2026-02-07T15:03:41.674Z",
   "latest": [
+    {
+      "id": "job_1770476619621_u13f5xgtk",
+      "title": "Atal Pension Yojana",
+      "organization": "PFRDA",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:03:39.621Z"
+    },
     {
       "id": "job_1770476614568_rz0i61vkg",
       "title": "PM Kaushal Vikas Yojana",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:11:59.207Z"
-    },
-    {
-      "id": "job_1770455514052_g8es5o78p",
-      "title": "IBPS RRB XIV 14th Office Assistant, Scale-II, III Score Card 2026",
-      "organization": "RRB",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:11:54.052Z"
     }
   ]
 }
