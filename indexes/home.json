@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:13:35.729Z",
+  "updatedAt": "2026-02-07T09:13:40.580Z",
   "latest": [
+    {
+      "id": "job_1770455618454_af0ue23vs",
+      "title": "CSBC Bihar Police Driver PET Exam Date 2026",
+      "organization": "Bihar Police",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:38.454Z"
+    },
     {
       "id": "job_1770455613704_63q6r6cfg",
       "title": "UPSSSC Enforcement Constable PET Exam Date 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-02-02",
       "createdAt": "2026-02-07T09:09:41.770Z"
-    },
-    {
-      "id": "job_1770455377085_kyoovea9w",
-      "title": "Bihar BPSC Factory Inspector Online Form 2026",
-      "organization": "BPSC",
-      "category": "upcoming-job",
-      "lastDate": "2026-02-02",
-      "createdAt": "2026-02-07T09:09:37.085Z"
     }
   ]
 }
