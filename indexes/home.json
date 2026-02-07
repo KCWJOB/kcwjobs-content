@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:03:57.117Z",
+  "updatedAt": "2026-02-07T15:04:02.357Z",
   "latest": [
+    {
+      "id": "job_1770476640027_8c2k1vvew",
+      "title": "PM Internship Scheme",
+      "organization": "Ministry of Education",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:00.027Z"
+    },
     {
       "id": "job_1770476634846_kq0hsriau",
       "title": "PM Vishwakarma Yojana",
@@ -392,14 +400,6 @@
       "category": "result",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:12:18.728Z"
-    },
-    {
-      "id": "job_1770455533635_n0rsm5qmy",
-      "title": "BPSC AEE & Other Post Result 2026",
-      "organization": "BPSC",
-      "category": "result",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:12:13.635Z"
     }
   ]
 }
