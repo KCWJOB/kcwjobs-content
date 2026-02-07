@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 13,
+  "totalItems": 14,
   "items": [
+    {
+      "id": "job_1770455618454_af0ue23vs",
+      "title": "CSBC Bihar Police Driver PET Exam Date 2026",
+      "organization": "Bihar Police",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:38.454Z"
+    },
     {
       "id": "job_1770455613704_63q6r6cfg",
       "title": "UPSSSC Enforcement Constable PET Exam Date 2026",
