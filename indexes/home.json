@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:06:49.877Z",
+  "updatedAt": "2026-02-07T15:06:55.218Z",
   "latest": [
+    {
+      "id": "job_1770476812754_yfg7fdqax",
+      "title": "CUET PG 2026",
+      "organization": "NTA",
+      "category": "admission",
+      "lastDate": "2026-06-30",
+      "createdAt": "2026-02-07T15:06:52.754Z"
+    },
     {
       "id": "job_1770476807086_fgn0u0qrm",
       "title": "NEET UG 2026",
@@ -392,14 +400,6 @@
       "category": "admission",
       "lastDate": "2026-06-30",
       "createdAt": "2026-02-07T13:32:21.555Z"
-    },
-    {
-      "id": "job_1770471136580_zalbt88dx",
-      "title": "PM Research Fellowship",
-      "organization": "Ministry of Education",
-      "category": "scholarship",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T13:32:16.580Z"
     }
   ]
 }
