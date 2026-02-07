@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 22,
+  "totalItems": 23,
   "items": [
+    {
+      "id": "job_1770476675767_9ekxdr0vo",
+      "title": "Suraksha Bima Yojana",
+      "organization": "Insurance Companies",
+      "category": "sarkari-yojana",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:04:35.767Z"
+    },
     {
       "id": "job_1770476670613_5s3ry030g",
       "title": "Jeevan Jyoti Bima Yojana",
