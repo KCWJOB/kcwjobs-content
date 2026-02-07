@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:50.991Z",
+  "updatedAt": "2026-02-07T15:07:56.115Z",
   "latest": [
+    {
+      "id": "job_1770476873912_gxljcct72",
+      "title": "IGNOU Open Admissions",
+      "organization": "IGNOU",
+      "category": "admission",
+      "lastDate": "2026-07-31",
+      "createdAt": "2026-02-07T15:07:53.912Z"
+    },
     {
       "id": "job_1770476868786_qqfg01tlu",
       "title": "UPSC CDS 2026",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:44.640Z"
-    },
-    {
-      "id": "job_1770476619621_u13f5xgtk",
-      "title": "Atal Pension Yojana",
-      "organization": "PFRDA",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:39.621Z"
     }
   ]
 }
