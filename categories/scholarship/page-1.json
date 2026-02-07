@@ -1,6 +1,15 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 0,
-  "items": []
+  "totalItems": 1,
+  "items": [
+    {
+      "id": "job_1770471116560_qn5yzog76",
+      "title": "Central Sector Scheme Scholarship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T13:31:56.560Z"
+    }
+  ]
 }
