@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-07T07:58:04.461Z",
+  "updatedAt": "2026-02-07T08:13:15.832Z",
   "latest": [
     {
       "id": "job_sample_001",
       "title": "Sample Government Job 2024",
       "organization": "Sample Department",
-      "category": "latest-job",
+      "category": "upcoming-job",
       "lastDate": "2024-12-31",
-      "createdAt": "2026-02-07T07:58:03.609Z"
+      "createdAt": "2026-02-07T08:13:14.730Z"
     }
   ]
 }
