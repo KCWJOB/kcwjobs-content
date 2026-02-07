@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 17,
+  "totalItems": 18,
   "items": [
+    {
+      "id": "job_1770476751501_o6taseuff",
+      "title": "Mukhyamantri Medhavi Vidyarthi Yojana",
+      "organization": "MP Govt",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:51.501Z"
+    },
     {
       "id": "job_1770476746604_km9pqdrir",
       "title": "Jharkhand e-Kalyan Scholarship",
