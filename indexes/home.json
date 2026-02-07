@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:28.588Z",
+  "updatedAt": "2026-02-07T15:05:33.767Z",
   "latest": [
+    {
+      "id": "job_1770476731499_jo822ajrv",
+      "title": "National Means Cum Merit Scholarship",
+      "organization": "Ministry of Education",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:31.499Z"
+    },
     {
       "id": "job_1770476726388_q81h2ekxf",
       "title": "PM Research Fellowship",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:53.663Z"
-    },
-    {
-      "id": "job_1770455628723_lnbp8e13a",
-      "title": "RPSC Junior Chemist Admit Card 2026",
-      "organization": "RPSC",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:48.723Z"
     }
   ]
 }
