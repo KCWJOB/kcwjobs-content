@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:11:08.140Z",
+  "updatedAt": "2026-02-07T09:11:12.950Z",
   "latest": [
+    {
+      "id": "job_1770455470854_30414xaro",
+      "title": "RSSB Conductor Score Card 2026",
+      "organization": "RSSB",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:11:10.854Z"
+    },
     {
       "id": "job_1770455466085_8w8l93gat",
       "title": "RSSB VDO Score Card 2026",
