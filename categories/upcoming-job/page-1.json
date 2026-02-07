@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 14,
+  "totalItems": 15,
   "items": [
+    {
+      "id": "job_1770455424170_aomkgiqss",
+      "title": "Haryana HPSC HCS Online Form 2026",
+      "organization": "Haryana",
+      "category": "upcoming-job",
+      "lastDate": "2026-02-26",
+      "createdAt": "2026-02-07T09:10:24.170Z"
+    },
     {
       "id": "job_1770455419477_f1aa0wsen",
       "title": "Delhi High Court JJA Online Form 2026",
