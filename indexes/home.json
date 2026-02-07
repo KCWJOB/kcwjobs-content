@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:05:18.529Z",
+  "updatedAt": "2026-02-07T15:05:23.558Z",
   "latest": [
+    {
+      "id": "job_1770476721413_3vpctves4",
+      "title": "UGC Junior Research Fellowship",
+      "organization": "UGC",
+      "category": "scholarship",
+      "lastDate": "2026-12-31",
+      "createdAt": "2026-02-07T15:05:21.413Z"
+    },
     {
       "id": "job_1770476716462_1t4u0p2mz",
       "title": "Post Matric Scholarship SC/ST",
@@ -392,14 +400,6 @@
       "category": "admit-card",
       "lastDate": "2026-02-07",
       "createdAt": "2026-02-07T09:13:43.497Z"
-    },
-    {
-      "id": "job_1770455618454_af0ue23vs",
-      "title": "CSBC Bihar Police Driver PET Exam Date 2026",
-      "organization": "Bihar Police",
-      "category": "admit-card",
-      "lastDate": "2026-02-07",
-      "createdAt": "2026-02-07T09:13:38.454Z"
     }
   ]
 }
