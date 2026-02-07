@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T15:07:45.918Z",
+  "updatedAt": "2026-02-07T15:07:50.991Z",
   "latest": [
+    {
+      "id": "job_1770476868786_qqfg01tlu",
+      "title": "UPSC CDS 2026",
+      "organization": "UPSC",
+      "category": "admission",
+      "lastDate": "2026-04-30",
+      "createdAt": "2026-02-07T15:07:48.786Z"
+    },
     {
       "id": "job_1770476863587_nhjtcghdf",
       "title": "NID DAT 2026",
@@ -392,14 +400,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:03:39.621Z"
-    },
-    {
-      "id": "job_1770476614568_rz0i61vkg",
-      "title": "PM Kaushal Vikas Yojana",
-      "organization": "Ministry of Skill Development",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:03:34.569Z"
     }
   ]
 }
