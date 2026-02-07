@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-02-07T09:13:55.744Z",
+  "updatedAt": "2026-02-07T09:14:00.319Z",
   "latest": [
+    {
+      "id": "job_1770455638418_kvbf87v55",
+      "title": "Indian Navy Civilian INCET 01/2025 Re-Exam Admit Card",
+      "organization": "Indian",
+      "category": "admit-card",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:13:58.418Z"
+    },
     {
       "id": "job_1770455633663_0tmebcq9f",
       "title": "CBSE Group A, B, C Tier-I Admit Card 2026",
@@ -392,14 +400,6 @@
       "category": "upcoming-job",
       "lastDate": "2026-03-03",
       "createdAt": "2026-02-07T09:10:00.352Z"
-    },
-    {
-      "id": "job_1770455395741_ehm13lu5o",
-      "title": "Bihar Police BPSSC ASI (Operation) Online Form 2026",
-      "organization": "SSC",
-      "category": "upcoming-job",
-      "lastDate": "2026-03-04",
-      "createdAt": "2026-02-07T09:09:55.741Z"
     }
   ]
 }
