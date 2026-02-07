@@ -1,8 +1,16 @@
 {
   "page": 1,
   "pageSize": 25,
-  "totalItems": 7,
+  "totalItems": 8,
   "items": [
+    {
+      "id": "job_1770455489817_0jy0bowt0",
+      "title": "Patna High Court Stenographer Result 2026",
+      "organization": "Patna",
+      "category": "result",
+      "lastDate": "2026-02-07",
+      "createdAt": "2026-02-07T09:11:29.817Z"
+    },
     {
       "id": "job_1770455485014_2r6zca12w",
       "title": "KVS NVS Teaching & Non-Teaching Answer Key 2026",
