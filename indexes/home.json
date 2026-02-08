@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-02-07T15:08:11.873Z",
+  "updatedAt": "2026-02-08T09:10:40.733Z",
   "latest": [
+    {
+      "id": "job_1770541839619_6me15orlz",
+      "title": "demo tesst",
+      "organization": "kasim cyber world",
+      "category": "upcoming-job",
+      "lastDate": "2026-03-14",
+      "posts": "1000",
+      "createdAt": "2026-02-08T09:10:39.620Z"
+    },
     {
       "id": "job_1770476889725_de1rakj05",
       "title": "Panjab University Admissions",
@@ -392,14 +401,6 @@
       "category": "sarkari-yojana",
       "lastDate": "2026-12-31",
       "createdAt": "2026-02-07T15:04:05.180Z"
-    },
-    {
-      "id": "job_1770476640027_8c2k1vvew",
-      "title": "PM Internship Scheme",
-      "organization": "Ministry of Education",
-      "category": "sarkari-yojana",
-      "lastDate": "2026-12-31",
-      "createdAt": "2026-02-07T15:04:00.027Z"
     }
   ]
 }
